@@ -1,0 +1,43 @@
+Hi !
+
+Here's my little house on Gordo Mount. 
+
+
+I've done it first for my FiveM server "Aurora RP" (Curretly in developement) but feel free to use! So, if you find some problem in SP mode, i really don't care xd. 
+Btw, this map work perfecly on Fivem.
+
+
+
+Requirement :
+
+- Scripthook
+- Menyoo
+- Map Builder (Community props) [IMPORTANT] (YOU NEED MAP BUILDER ON YOUR FIVEM SERVER)
+- Object spawn unlocker
+
+
+
+
+Installation:
+
+ 
+
+- For FiveM servers - Drop the folder Lake to your Resources folder. After you have that ready, you will need to start the script on your Server.cfg (ex: "start Lake")
+
+
+- For Story Mode you will need to install Menyoo first, and then you will drag the Lake.xml file inside of MenyooStuff folder in the Spooner folder.
+
+
+
+Enjoy and send me you feedback ! (Screen/video)
+
+
+
+
+CHANGELOGS 08.12.2020:
+
+- Add a new part inclued a new bedroom and a living room
+- fix some bugs
+- add some props in house
+- Fix doors
+- Change the bed, add furnitures and more
